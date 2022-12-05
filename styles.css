@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li{
+    list-style: none;
+}
+#image{
+    width: 35em;
+    height: 10em;
+    object-fit: cover;
+}
+#alert{
+    color: red;
+    font-weight: 900;
+}
